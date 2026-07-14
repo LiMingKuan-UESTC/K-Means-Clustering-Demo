@@ -1,8 +1,16 @@
-# K-Means Clustering Demo
+<h1 align="center">K-Means Clustering Demo</h1>
 
-一个基于 MATLAB 开发的 **K-means 聚类算法交互式可视化演示程序**。
+<p align="center">
+  <b>一个基于 MATLAB 开发的 K-means 聚类算法交互式可视化演示程序，帮助初学者直观理解 K-means 算法的基本原理与迭代过程。</b>
+</p>
 
-本项目通过逐帧展示原始样本、初始聚类中心、样本分配、中心更新、目标函数变化和最终聚类结果，帮助初学者直观理解 K-means 算法的基本原理与迭代过程。
+<p align="center">
+  <img alt="Language" src="https://img.shields.io/badge/Language-MATLAB-orange?style=flat-square">
+  <img src="https://img.shields.io/github/repo-size/LiMingKuan-UESTC/Clustering-Matlab-Demo?style=flat-square&label=Repo%20Size" />
+  <a href="https://github.com/LiMingKuan-UESTC/Clustering-Matlab-Demo/stargazers">
+    <img src="https://img.shields.io/github/stars/LiMingKuan-UESTC/Clustering-Matlab-Demo?style=flat-square&logo=github&label=Stars" />
+  </a>
+</p>
 
 ## 项目预览
 
@@ -72,5 +80,6 @@ K-Means-Clustering-Demo/
 ## 相关项目
 
 * [Density Peaks Clustering Demo](https://github.com/LiMingKuan-UESTC/Density-Peaks-Clustering-Demo)
+* [Clustering Matlab Demo](https://github.com/LiMingKuan-UESTC/Clustering-Matlab-Demo)
 
 该项目使用 MATLAB 交互式展示密度峰值聚类算法的计算与聚类过程。
