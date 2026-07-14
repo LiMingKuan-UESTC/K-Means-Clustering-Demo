@@ -81,5 +81,3 @@ K-Means-Clustering-Demo/
 
 * [Density Peaks Clustering Demo](https://github.com/LiMingKuan-UESTC/Density-Peaks-Clustering-Demo)
 * [Clustering Matlab Demo](https://github.com/LiMingKuan-UESTC/Clustering-Matlab-Demo)
-
-该项目使用 MATLAB 交互式展示密度峰值聚类算法的计算与聚类过程。
