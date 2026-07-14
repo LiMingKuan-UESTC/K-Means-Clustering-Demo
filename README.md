@@ -63,6 +63,12 @@ K-Means-Clustering-Demo/
 └── LICENSE
 ```
 
+## License
+
+本项目基于 Apache-2.0 License 开源。
+
+欢迎 Star ⭐ 和 Fork！
+
 ## 相关项目
 
 * [Density Peaks Clustering Demo](https://github.com/LiMingKuan-UESTC/Density-Peaks-Clustering-Demo)
